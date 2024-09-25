@@ -12,14 +12,14 @@ My journey into cybersecurity has been challenging yet rewarding, driven by a pa
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Linux adminstration & Encryption              | <a href="https://1drv.ms/w/c/948bf81436018be9/EdJVa6ppiEFGpYpokhasCEkB62Jz2OGViVzL-cxYlGIT9g?e=GP9uFS">Linux Lab</a>|
+| Linux adminstration & Encryption              | <a href="https://drive.google.com/file/d/16A5JdDjzNE-AHMzDqTgv3KkMyDXbxd2q/view?usp=sharing">Linux Lab</a>|
 | Database systems & SQL                        | <a href="https://drive.google.com/file/d/19bGrjKpsR7bswGcGUBgmdxdC7oJ9Xv18/view?usp=sharing">SQL Project</a> , <a    href="https://drive.google.com/file/d/1LPMbADfGVFTPUpomxKzx1vw_b0zKQPkW/view?usp=sharing">SQL Code</a> , <a href="https://drive.google.com/file/d/1nM00TiyIKOTXKg3n1Cxunobkq9eY21in/view?usp=sharing">Schedule SQL Code</a> , <a href="https://drive.google.com/file/d/1pbQcf63i9AmmB81YEEN0J_JDr3c3owOO/view?usp=sharing">Update Students.PHP</a> , <a href="https://drive.google.com/file/d/1g-vtKVdgEPZ2Gh08GcFRzQSpUB1ZJ9M2/view?usp=sharing">Add.PHP</a> , <a href="https://drive.google.com/file/d/1k_uIPjdzU5a1w7bGnnE2p8sK6eIl-HyE/view?usp=sharing">Remove Students.PHP</a> , <a href="https://drive.google.com/file/d/1WRWSfcibgQhbEOljbFNLFVd8M7MIbJBt/view?usp=sharing">Edit Pod.PHP</a>
 | Penatration with testing DVWA & OWASP         | <a href="https://drive.google.com/file/d/1AxKTNrgcyqqSdM5STdy9DIb9kb08Lj-w/view?usp=sharing">Pen Testing</a>|
 | Operating System Security                     |<a href="https://drive.google.com/file/d/1j628KVtG8OgdXeA0ex_T0t7b9X-t1I_H/view?usp=sharing">Operating System Report</a>|
-|Authentication & Access Control                |<a href="https://drive.google.com/file/d/1DIc-orTVlfC5DJ7WDe0zSYVn0P8Qj6z6/view?usp=sharing">Security Lab</a>|
-| Password Attack                               |<a href="https://drive.google.com/file/d/10hp4Tl92M5guVK7aCenyWjb-8kGuEVGW/view?usp=sharing">Security Lab</a>|
-| Encryption                                    |<a href="https://drive.google.com/file/d/1NZCa1H61QsbE_fPiOs90qYUVUy7Y4yTE/view?usp=sharing">Security Lab</a>|
-| Network Traffic                               |<a href="https://drive.google.com/file/d/1Dg0bRsi0MKS5m67nbx9oS1V7Lkxz0_9c/view?usp=sharing">Security Lab</a>|
+|Authentication & Access Control                |<a href="https://drive.google.com/file/d/1IX2goMD80aqPOZ4SksWcgaTb6gEV_9i5/view?usp=sharing">Explanation<a/> , <a href="https://drive.google.com/file/d/1DIc-orTVlfC5DJ7WDe0zSYVn0P8Qj6z6/view?usp=sharing">Security Lab</a>|
+| Password Attack                               |<a href="https://drive.google.com/file/d/18NxBnRDEdozT3gfSco4P0c2WyhkmwrJw/view?usp=sharing">Explanation<a/> , <a href="https://drive.google.com/file/d/10hp4Tl92M5guVK7aCenyWjb-8kGuEVGW/view?usp=sharing">Security Lab</a>|
+| Encryption                                    |<a href="https://drive.google.com/file/d/1sW9E2fJjadBQTicgMvlYZ6W8RU8ohAdR/view?usp=sharing">Explanation</a> , <a  href="https://drive.google.com/file/d/1NZCa1H61QsbE_fPiOs90qYUVUy7Y4yTE/view?usp=sharing">Security Lab</a>|
+| Network Traffic                               |<a href="https://drive.google.com/file/d/1SeCUNR0Ovdxn-7wlkBlfjbVHmYXw0OLX/view?usp=sharing">Explanation</a> , <a href="https://drive.google.com/file/d/1Dg0bRsi0MKS5m67nbx9oS1V7Lkxz0_9c/view?usp=sharing">Security Lab</a>|
 ## Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
