@@ -58,7 +58,3 @@ My journey into cybersecurity has been challenging yet rewarding, driven by a pa
 <img src="https://img.shields.io/badge/-Google_IT_Support-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-IBM_Certification-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
